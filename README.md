@@ -15,6 +15,10 @@ Your donated material first goes to the Helping Hands Center and then it will be
 - Efficient Speed
 - Continues updation
 - Attractive GUI
+- Proper implementation of Sessions
+- Cookies are also managed.
+- Security is managed by a file security guard.jsp
+- Directed Links are available for Location, call, and mail.
 
 ## Sections
   ### Donation page
