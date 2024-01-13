@@ -18,17 +18,22 @@ Your donated material first goes to the Helping Hands Center and then it will be
   ## Sections
   ### Donation page
   From here public sends the details of the things that they want to donate. 
-  ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H4.png)
+![j1](https://github.com/poojajat/Helping-Hands/blob/master/H4.png)
 
   #### Profile
-   ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H5.png)
+ ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H5.png)
 
   ### Complain Box
-   ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H6.png)
+ ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H6.png)
 
   ### Feedback
  ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H7.png)
 
  ### Setting
-  ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H8.png)
+ ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H8.png)
+
+ ## Author
+POOJA JAT
+- [GitHub](https://www.github.com/poojajat)
+- [LinkedIn](https://www.linkedin.com/in/pooja-jat)
   
