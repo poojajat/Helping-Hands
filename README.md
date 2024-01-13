@@ -15,12 +15,12 @@ Your donated material first goes to the Helping Hands Center and then it will be
 - Continues updation
 - Attractive GUI
 
-  ## Sections
+## Sections
   ### Donation page
   From here public sends the details of the things that they want to donate. 
 ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H4.png)
 
-  #### Profile
+  ### Profile
  ![j1](https://github.com/poojajat/Helping-Hands/blob/master/H5.png)
 
   ### Complain Box
